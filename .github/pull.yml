@@ -1,5 +1,5 @@
 version: "1"
 rules:
-  - base: master
-    upstream: brainix/pottery:master
+  - base: main
+    upstream: mem0ai/mem0:main
     mergeMethod: rebase
